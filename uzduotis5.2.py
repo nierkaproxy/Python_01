@@ -1,7 +1,7 @@
 import math
 
-width = 1
-height = 2
+width = int(input("iveskite ritinio ploti: "))
+height = int(input("iveskite ritinio auksti: "))
 
 Capacity = (math.pi) * ((width/2) * (width/2)) * height
 

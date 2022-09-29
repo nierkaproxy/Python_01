@@ -1,4 +1,4 @@
-SixDigitNumber = str(123456)
+SixDigitNumber = str(input("iveskite sesiazenkli skaiciu: "))
 
 SecondDigit = SixDigitNumber[1]
 

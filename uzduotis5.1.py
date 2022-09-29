@@ -1,4 +1,4 @@
-SecConvert = 3600
+SecConvert = int(input("iveskite sekundes: "))
 
 MinutesGet, SecondsGet = divmod(SecConvert, 60)
 
